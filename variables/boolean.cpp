@@ -7,3 +7,5 @@ int main(){
     cout<< b1;
     return 0;
 }
+
+// true returns 1 while false returns 0
