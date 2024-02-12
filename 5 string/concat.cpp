@@ -7,6 +7,7 @@ int main(){
     string str2 = "world!";
 
     cout<<str1<<" "<<str2<<endl;
+    cout<<str1.append(str2);
 
     return 0;
 }
