@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     int length, width;
     cout<<"Find the Area and Perimeter of a Rectangle :"<<endl;
-    cout<<"--------------------------------------------";
+    cout<<"--------------------------------------------"<<endl;
     cout<<"Input the length of the rectangle : ";cin>>length;
     cout<<"Input the width of the rectangle : ";cin>>width;
 
